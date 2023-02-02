@@ -1,0 +1,12 @@
+
+
+Here is the collection of books: 
+#1: c++ For Dummies by Leonard Dreco
+It is 67 pages and cost $569.00
+
+#2: Javascript Made Easy by Bloade Leanman
+It is 78 pages and cost $800.00
+
+#3: C Programming For All by Lane Breaststone
+It is 900 pages and cost $500.00
+
